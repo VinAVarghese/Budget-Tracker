@@ -3,20 +3,11 @@
   ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
-  3. [Contributing](#Contributing)
-  4. [Tests](#Tests)
-  5. [License](#License)
-  6. [Questions](#Questions)
+  3. [Questions](#Questions)
   ## Installation
        Local repo: git clone & npm install 
   ## Usage
   This app is meant to be used as a simple income/expenditure tracker for users who may loose internet connection. It is a safe and secure app for tracking budgets.
-  ## Contributing
-  
-  ## Tests
-       
-  ## License
-  >Other:  
   ## Questions
 
   * GitHub: [VinAVarghese](https://github.com/VinAVarghese)
